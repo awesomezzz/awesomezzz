@@ -6,7 +6,7 @@
 - 📚 Beginner's mindset and curiosity<br>
 - 🙌 Sharing anything I learned<br>
 
-### 🔨 Langues 、 Frameworks 、 Kit 、 OS and Tools
+## 🔨 Langues 、 Frameworks 、 Kit 、 OS and Tools
 - Python, Java, C#, R 
 - HTML5, CSS3, JavaScript, PHP, JQuery, Dash
 - Linux, Tenserflow, Keras
