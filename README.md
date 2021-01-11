@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hong</h1>
 <h3 align="center">A passionate developer from Taiwan</h3>
 
+## 🤓 My values
+🍏 Beginner's mindset and curiosity<br>
+🙌 Sharing anything I learned<br>
+
+
 ### :hammer: Languages and Tools
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
