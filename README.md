@@ -8,7 +8,7 @@
 
 ## 🔨 Langues 、 Frameworks 、 Kit 、 OS and Tools
 - Python, Java, C#, R 
-- HTML5, CSS3, JavaScript, PHP, JQuery, Dash
+- HTML5, CSS, JavaScript, PHP, JQuery, Dash
 - Linux, Tenserflow, Keras
 
 <p align="left"> 
