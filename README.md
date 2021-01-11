@@ -1,6 +1,6 @@
 ## Hi, I'm Hong. 👋
 
-### I'm an Engineer
+### I am an ordinary and extraordinary engineer.😂
 
 ## 🧠 My values
 - 📚 Beginner's mindset and curiosity<br>
