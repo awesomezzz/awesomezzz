@@ -5,9 +5,13 @@
 🍏 Beginner's mindset and curiosity<br>
 🙌 Sharing anything I learned<br>
 
+## 🧠 That I know and use
+### 📚 Langues 、 Frameworks 、 Kit 、 OS and Tools
+- Python, Java, C#, R 
+- HTML5, CSS3, JavaScript, PHP, JQuery, Dash
+- linux, Tenserflow, Keras
 
 ### :hammer: Languages and Tools
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -22,5 +26,10 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
+## 💡 Projects
+- [Thesis Research](https://github.com/awesomezzz/AutoEstServ_Aug)
+- [Project achievement]
 
 
+## 🔗 Get in touch
+- Personal site: http://awesomezzz.github.io/
