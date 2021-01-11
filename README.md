@@ -2,12 +2,12 @@
 
 ### I'm an Engineer
 
-## 🤓 My values
-🍏 Beginner's mindset and curiosity<br>
-🙌 Sharing anything I learned<br>
+## 🧠 My values
+- 📚 Beginner's mindset and curiosity<br>
+- 🙌 Sharing anything I learned<br>
 
 ## 🧠 That I know and use
-### 📚 Langues 、 Frameworks 、 Kit 、 OS and Tools
+### 🔨 Langues 、 Frameworks 、 Kit 、 OS and Tools
 - Python, Java, C#, R 
 - HTML5, CSS3, JavaScript, PHP, JQuery, Dash
 - linux, Tenserflow, Keras
