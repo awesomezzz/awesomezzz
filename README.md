@@ -6,11 +6,10 @@
 - 📚 Beginner's mindset and curiosity<br>
 - 🙌 Sharing anything I learned<br>
 
-## 🧠 That I know and use
 ### 🔨 Langues 、 Frameworks 、 Kit 、 OS and Tools
 - Python, Java, C#, R 
 - HTML5, CSS3, JavaScript, PHP, JQuery, Dash
-- linux, Tenserflow, Keras
+- Linux, Tenserflow, Keras
 
 <p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
