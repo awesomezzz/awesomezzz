@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hong</h1>
-<h3 align="center">A passionate developer from Taiwan</h3>
+##Hi, I'm Hong. 👋
+### I'm an Engineer
 
 ## 🤓 My values
 🍏 Beginner's mindset and curiosity<br>
