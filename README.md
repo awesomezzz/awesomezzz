@@ -32,3 +32,4 @@
 
 ## 🔗 Get in touch
 - Personal site： http://awesomezzz.github.io/
+- My gist : https://gist.github.com/awesomezzz
